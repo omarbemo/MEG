@@ -1,0 +1,9 @@
+opencv-python
+numpy
+requests
+pyzbar
+fastapi
+uvicorn
+ultralytics
+mysql-connector-python
+pytesseract
